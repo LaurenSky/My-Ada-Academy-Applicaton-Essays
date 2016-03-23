@@ -1,1 +1,22 @@
-# My-Ada-Academy-Applicaton
+# My Essays
+<h2>1. Why are you interested in programming? What have you done to expose yourself to programming so far?</h2>
+
+<p>I was working at a start-up managing their online store integration and I had this defining moment where I realized that I wanted to be developing the website instead of managing it. My career had shifted from a technical role to a management role, and I missed the technical focus. The world is increasingly more technology based and I believe that this skill would open many doors for me, as there have been multiple jobs that I have been interested in where programming is the only skill that I have yet to acquire. This skill would enable me to simultaneously utilize technology to solve human needs in a creative, interactive, and user-friendly way. </p>
+
+<p>To expose myself to programming I’ve taken intro classes on programing basics (Skillcrush), practiced some basic html, css, and javascript (codeacademy), and tried basic ruby (tryruby.org). I’m at the point where I can look at code and have a basic understanding of what it is doing, but I’m still working on writing it from scratch and understanding everything. I’ve also joined mailer lists, read articles about the various disciplines of software development, attended webinars and talked with friends that are programers.  </p>
+
+<h2>2.What are your professional goals for the next 2 years, the next 5 years?</h2>
+
+<p>In the next 2 years, my professional goal is to work in either Front-End Development or User Experience Design. I am very intrigued by how humans utilize and interact with technology and I want to learn more about how to design these technology tools to best serve their users and how to transmit the message and feeling that the company wants its users to experience. </p>
+
+<p>In the next 5 years, I want to integrate my knowledge and experience from Software Development and Industrial Engineering to help with knowledge sharing and collaboration across non-profits, specifically focusing on environmental sustainability and community development. I want to have more experience in Front-End Development and User Experience Design and I want to have some experience in back-end development. </p>
+
+<h2>3.Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?</h2>
+
+<p>While building my first large scale art instillation, a 5m bamboo spiral dome, I made the mistake of not halting the build when the person responsible for managing the structure build quit the day of and didn’t leave instructions. We were on a tight schedule and had 130 pieces of freshly cut, 30 foot bamboo in 90 degree heat that needed to be bent while still green. Unfortunately, because we built without proper instructions, we had to rebuild and had to replace at least 30 pieces of bamboo. At this time, we kindly requested that they provide us with instructions and luckily with them we were able to reconstruct the structure properly. 
+If I encountered this situation again, I would take more time to re-evaluate the situation and risks of moving forward before replacing that key player. From the start, I would ask that each team member document what they know in a common space so, if someone leaves, what they know will be immediately accessible. Along with this, I would identify if cost, time, or resources are the main constraint and see if there is a way to increase the other two to stay on schedule.</p>
+
+<h2>4.Have you taught yourself anything before? Describe what you learned and how you approached it.</h2>
+
+<p>Whether I’m teaching myself how to build furniture, how to use a sewing machine to make a costume, or teaching myself the basics of programing, I identify what I want to achieve, utilize resources available for research, and then jump in and start. As, the only way to get better is practice. And, when I get stuck, I refer/reach out to resources for assistance. For example, when I decided to learn backpacking, I read articles online about pack lists, proper gear use, etc. I then contacted backpackers I knew and asked if they were interested in doing a 2/3 day trip. Once we chose a location, I bought and borrowed gear that I needed and asked for their expertise on anything I was unsure of. Then we went and I learned so much on the trail. I continued to gain experience and knowledge the more trips I went on and even branched out into other aspects of it such as topography map reading, wilderness medicine, gear design, etc. And now, it couldn’t make me prouder to be the one that receives requests from people wanting to get into the sport. </p>
+
